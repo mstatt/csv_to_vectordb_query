@@ -27,6 +27,10 @@ Chroma DB is particularly useful for applications such as similarity search, rec
 
 
 <br/>
+<video width="640" height="360" controls autoplay>
+  <source src="assets/csv_vector_db.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
  <hr>
   </p>
 
