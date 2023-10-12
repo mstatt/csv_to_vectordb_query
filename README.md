@@ -27,10 +27,11 @@ Chroma DB is particularly useful for applications such as similarity search, rec
 
 
 <br/>
-<video width="640" height="360" controls autoplay>
-  <source src="assets/csv_vector_db.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/mstatt/csv_to_vectordb_query/assets/7569749/2c17bf50-1c07-42fc-82db-10cf99f59314
+
+
  <hr>
   </p>
 
